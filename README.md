@@ -1,32 +1,45 @@
 <div align="center">
   <h1>Hi there, I'm J4ck13Ch4n! 👋</h1>
-  <p>Exploring the intersection of Artificial Intelligence and Cybersecurity.</p>
+  <h3>AI Security Solutions Architect | Secure Systems Engineer</h3>
+  <p>Architecting resilient AI architectures, zero-trust ML pipelines, and hardened cloud-native systems.</p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🛡️ Architecture & Security Focus
 
-- **Current Focus**: AI Privacy and Security AI
-- **Deeply engaged in:** Federated Learning, Multi-agent Systems (MAS), and Decentralized AI.
+- **Threat Modeling & AI Red Teaming**: Adversarial ML robustness, LLM safety guardrails, prompt injection mitigation, and model extraction defense.
+- **Secure Systems Design**: Zero-trust architecture, privacy-preserving ML (Federated Learning, TEE / Confidential Computing, Differential Privacy).
+- **MLSecOps & Infra Hardening**: CI/CD pipeline integrity, supply chain security (SLSA, SBOM), container/Kubernetes runtime defense, and IAM boundary controls.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Stack & Tools
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C/C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+**Languages & Systems:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Machine Learning & Frameworks:**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**AI / ML Frameworks:**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
+**Security, Cloud & Infrastructure:**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 <div align="center">
-  <h3>🐍 My GitHub Contributions Snake</h3>
+  <h3>🐍 GitHub Activity Stream</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J4ck13Ch4n/J4ck13Ch4n/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J4ck13Ch4n/J4ck13Ch4n/output/github-contribution-grid-snake.svg">
