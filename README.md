@@ -35,12 +35,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J4ck13Ch4n&show_icons=true&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=J4ck13Ch4n&show_icons=true&theme=radium&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=J4ck13Ch4n&theme=radium&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J4ck13Ch4n&layout=compact&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J4ck13Ch4n&layout=compact&theme=radium&hide_border=true" width="48%" />
 </div>
